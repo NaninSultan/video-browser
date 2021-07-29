@@ -21,6 +21,9 @@ Buillt with:
 HTML
 CSS
 React JS
+Material UI
+API key
+Axios
 
 # List of libraries
 
